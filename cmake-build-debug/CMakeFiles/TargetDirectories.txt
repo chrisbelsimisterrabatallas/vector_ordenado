@@ -1,0 +1,3 @@
+C:/Users/frixo/vector_ordenacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/frixo/vector_ordenacion/cmake-build-debug/CMakeFiles/vector_ordenacion.dir
+C:/Users/frixo/vector_ordenacion/cmake-build-debug/CMakeFiles/edit_cache.dir
